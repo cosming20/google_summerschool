@@ -51,10 +51,7 @@ The project aims to create a robust and secure environment for developing AI app
 14. **package**:
     - Directory containing additional software packages and dependencies.
 
-15. **test**:
-    - Directory for testing scripts and tools to ensure the integrity and functionality of the build.
-
-16. **u-boot-tn-imx-tn-imx_v2023.04_6.1.55_2.2.0-stable**:
+15. **u-boot-tn-imx-tn-imx_v2023.04_6.1.55_2.2.0-stable**:
     - Customized version of U-Boot for i.MX processors, ensuring compatibility and stability with the project's requirements.
 
 ### Implementation Details
